@@ -1,0 +1,45 @@
+body {
+    margin: 0, auto;
+}
+
+.navbar {
+    background-color: #31074e;
+}
+
+h1 {
+    margin: 3%;
+    color: #8a31db;
+    font-family: 'Monoton', cursive;
+}
+
+.book-icon {
+    margin: 0 5%;
+}
+
+.logo {
+    height: 400px;
+    width: 400px;
+    background: rgb(34, 0, 36);
+    background: linear-gradient(90deg, rgba(34, 0, 36, 1) 0%, rgba(151, 0, 255, 1) 76%);
+    border-radius: 50%;
+}
+
+.book {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+}
+
+.buttons {
+    margin-top: 5%;
+}
+
+.btn1, .btn2 {
+    color: #8a31db;
+    border-color: #8a31db;
+}
+
+.btn1:hover, .btn2:hover {
+    background-color: #8a31db
+}
